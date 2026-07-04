@@ -1,0 +1,4 @@
+Day1 :
+I choose the project Expense Tracker
+I explore the GitHub 
+I download some basic requirement tools
